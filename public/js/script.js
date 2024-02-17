@@ -18,7 +18,7 @@ const answers_no = {
         "Why are you doing this to me?",
         "Please give me a chance!",
         "I am begging you to stop!",
-        "Ok, Let's just start over.."
+        "Ok, นอยยอ่าาาาาาาาาาาาาาาาาาาาาาาาาาาาาาาา."
     ],
     french: [
         "Non",
