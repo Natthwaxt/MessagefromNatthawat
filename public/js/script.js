@@ -1,7 +1,4 @@
 
-document.getElementById("next-page").addEventListener("click", function() {
-  window.location.href = "index0.html"; // Replace with desired URL
-});
 const answers_no = {
     english: [
         "No",
